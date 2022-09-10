@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1654598226 source:c:\users\niki\desktop\niki projects c\tictac\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+
